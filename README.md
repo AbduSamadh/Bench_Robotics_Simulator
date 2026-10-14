@@ -2,6 +2,8 @@
 
 Bench is a build-a-robot sandbox that runs entirely in the browser. Design a robot in 3D, tune it, then race it through mazes, line tracks, hills, drag strips and delivery courses. It is one self-contained `index.html` with no frameworks and no build step.
 
+![Bench: building a robot](assets/bench-card.png)
+
 ## Run it
 
 Open `index.html` in any modern browser, or serve the folder (for example with GitHub Pages).
